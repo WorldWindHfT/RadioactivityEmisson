@@ -1,4 +1,4 @@
-.#Monitoring Nuclear Power Plant Radioactivity Emissions
+# Monitoring Nuclear Power Plant Radioactivity Emissions
 
 About the Project
 
